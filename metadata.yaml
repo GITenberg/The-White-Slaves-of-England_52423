@@ -1,11 +1,16 @@
 _repo: The-White-Slaves-of-England_52423
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52423-h/images/cover.jpg
 creator:
   author:
     agent_name: Cobden, John C.
     gutenberg_agent_id: '46849'
     url: http://www.gutenberg.org/2009/agents/46849
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52423#The-White-Slaves-of-England
 gutenberg_issued: '2016-06-28'
 gutenberg_type: Text
 identifiers:
